@@ -1,5 +1,16 @@
-# AI Engineering Pocs and Implementation
+# Practical AI Engineering Pocs and Implementation
 
-1. poc_model_switch_and_rate_limit
+This repository provides a practical take on engineering driven design and implementations.
 
-A Demo to showcase how to implement rate limit with llm model switch 
+## Structure
+1. `docs`
+This folder will provide with various designs and and the architectures.
+
+2. `examples`
+Here you may find some code samples to see how to achieve a certain capability.
+
+3. `Implementaion`
+Here you will find usable sdks to enable a certain capability in your code.
+
+## Contributions
+Please fork the repo and raise a PR.
